@@ -4,6 +4,8 @@ library(ggplot2)
 library(accessibility)
 
 
+# introducao
+
 arquivo <- "dados/brutos/aop_fortaleza.rds"
 
 if (!file.exists(arquivo)) {
@@ -243,4 +245,5 @@ comparacao |>
   )
 
 
-
+# fim 
+# ver site do curso
