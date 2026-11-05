@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.httr-oauth
+.DS_Store
+.quarto
+.Rprofile
+dados/*
+mapas/*
+r5r-log.log
+resultados/*
+rjavaenv/*
+curso_r_transportes.Rproj
